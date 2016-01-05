@@ -1,0 +1,43 @@
+# ust-homwrok
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="448" height="148" border="0">
+  <tr>
+    <td width="125" bgcolor="#00CC00" style="color: #FFF">Contact name</td>
+    <td width="83" bgcolor="#00CC00" style="color: #FFF">City</td>
+    <td width="112" bgcolor="#00CC00" style="color: #FFF">Contry</td>
+    <td width="110" bgcolor="#00CC00" style="color: #FFF">Is promted</td>
+  </tr>
+  <tr>
+    <td height="32" bgcolor="#999999">marwan </td>
+    <td bgcolor="#999999">صنعاء</td>
+    <td bgcolor="#999999"><img src="Flag_of_Yemen.svg.png" width="26" height="23"  alt=""/>اليمن</td>
+    <td bgcolor="#999999"><input type="checkbox" name="checkbox" id="checkbox"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#CCCCCC">mohammed</td>
+    <td bgcolor="#CCCCCC"> غزة</td>
+    <td bgcolor="#CCCCCC"><img src="180px-Flag_of_Palestine.svg.png" width="26" height="23"  alt=""/>فلسطين</td>
+    <td bgcolor="#CCCCCC"><input type="checkbox" name="checkbox2" id="checkbox2"></td>
+  </tr>
+  <tr>
+    <td bgcolor="#999999">Najeeb</td>
+    <td bgcolor="#999999">القاهرة</td>
+    <td bgcolor="#999999"><img src="EGYPTFL.JPG" width="26" height="23"  alt=""/>مصر</td>
+    <td bgcolor="#999999"><input type="checkbox" name="checkbox3" id="checkbox3"></td>
+  </tr>
+  <tr>
+    <td height="25" bgcolor="#CCCCCC">Yosef</td>
+    <td bgcolor="#CCCCCC">الجزائر</td>
+    <td bgcolor="#CCCCCC"><img src="ALGERIA.JPG" width="26" height="23"  alt=""/>الجزائر</td>
+    <td bgcolor="#CCCCCC"><input type="checkbox" name="checkbox4" id="checkbox4"></td>
+  </tr>
+</table>
+</body>
+</html>
