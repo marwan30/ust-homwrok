@@ -1,0 +1,42 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Untitled Document</title>
+</head>
+
+<body>
+<table width="42%" height="416" border="0">
+  <tr>
+    <td width="12%">&nbsp;</td>
+    <td width="30%">&nbsp;</td>
+    <td width="58%">&nbsp;</td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td valign="top" bgcolor="#666666"><p style="color: #999">Tickit ID:</p>
+    <p style="color: #FFF">Name:</p>
+    <p style="color: #FFF">&nbsp;</p>
+    <p style="color: #FFF">Email:</p>
+    <p style="color: #FFF">Response time:</p>
+    <p style="color: #FFF">Last action:</p>
+    <p style="color: #FFF">&nbsp;</p>
+    <p style="color: #FFF">Statues:</p>
+    <p style="color: #FFF">&nbsp;</p></td>
+    <td valign="top" bgcolor="#666666"><p style="color: #999">201410715 </p>
+    <p style="color: #FFC">marwan mathkoor</p>
+    <p style="color: #F00">no attive sopport</p>
+    <p style="color: #E7FFCC">ala1232011@gmail.com</p>
+    <p style="color: #9C0">72hours, 32hours</p>
+    <p style="color: #9C0">never been locked.</p>
+    <p style="color: #E7FFCC">link to poblic post</p>
+    <p style="color: #9C0">Not answered</p></td>
+  </tr>
+  <tr>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+    <td>&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
